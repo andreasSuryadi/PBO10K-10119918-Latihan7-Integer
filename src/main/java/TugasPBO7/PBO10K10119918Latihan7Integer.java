@@ -15,7 +15,7 @@ package TugasPBO7;
  * tipe data bilangan bulat
  * 
  */
-public class PBO610119918Latihan7Integer {
+public class PBO10K10119918Latihan7Integer {
 
     /**
      * @param args the command line arguments
