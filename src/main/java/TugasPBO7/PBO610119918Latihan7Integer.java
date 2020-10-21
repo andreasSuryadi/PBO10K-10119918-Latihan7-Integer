@@ -7,7 +7,13 @@ package TugasPBO7;
 
 /**
  *
- * @author andreas
+ * @author
+ * NAMA     : Andreas Suryadi
+ * KELAS    : PBO10K
+ * NIM      : 10119918
+ * Deskripsi Program : Program ini berisi program untuk menampilkan jenis-jenis 
+ * tipe data bilangan bulat
+ * 
  */
 public class PBO610119918Latihan7Integer {
 
